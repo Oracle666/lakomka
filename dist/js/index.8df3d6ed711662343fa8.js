@@ -1,1 +1,0 @@
-(()=>{"use strict";var a={};function e(){ymaps.ready(()=>{let a=new ymaps.Map("map",{center:[55.76,37.64],zoom:10})})}window.onload=e()})();
